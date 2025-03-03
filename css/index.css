@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    background-color: rgb(186, 186, 186);
+}
+a{
+    text-decoration: none;
+    color: rgb(8, 95, 66);
+}
+body{
+    background: url(/images/peachy-paralleo.png);
+    margin: 10px;
+    padding: 10px;
+}
